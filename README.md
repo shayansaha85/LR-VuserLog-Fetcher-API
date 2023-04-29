@@ -44,4 +44,4 @@ python fetch-parameter.py
 - Find out the exact parameter value defined in parameter in payload ("parameter")
 - Save the output with only the parameter values in the output folder location defined in payload ("output_path")
 
-**Next update** : Minimal frontend to do this activity
+**Web UI Version** : https://github.com/shayansaha85/LR-VuserLog-Fetcher-WebUI
