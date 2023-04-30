@@ -6,7 +6,7 @@
 - Of course, you can run in vugen itself with n iterations to fetch that, but let me tell you one amazing way to fetch the same
 - Clone this repository running below command
 ```
-git clone https://github.com/shayansaha85/LR-VuserLog-Fetcher.git
+git clone https://github.com/shayansaha85/LR-VuserLog-Fetcher-API.git
 ```
 - Install python from this link : [Python](https://www.python.org/downloads/)
 - Our this code uses three libraries : **flask**, **re**, and **os**
