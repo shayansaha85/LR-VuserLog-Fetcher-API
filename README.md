@@ -32,7 +32,13 @@ python fetch-parameter.py
         "output_path" : "<Enter the output folder path>"
     }
     ```
-    Example :
+    - Headers:
+    ```
+    token : <ENTER ANY API TOKEN FROM ./apiKeys folder .pem files>
+    ```
+    _To generate more apiKeys, use the **gen_apiKey()** method from **TokenGenerator.py** file_
+    
+    Example payload :
     ```json
     {
         "log_folder" : "/Users/shayan/Documents/code/LR-VUSERLOG-Fetcher/Logs",
